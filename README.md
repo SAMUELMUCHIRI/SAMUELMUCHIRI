@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SAMUELMUCHIRI
-- 👀 I’m interested in ... Python ,C++
+- 👀 I’m interested in ... Python ,C++ and Matlab 
 - 🌱 I’m currently learning ...c++
 - 💞️ I’m looking to collaborate on ... Research projects involving various languages
 - 📫 How to reach me ...https://www.linkedin.com/in/samuel-njau-b00488191/
