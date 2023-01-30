@@ -1,3 +1,11 @@
+
+<h1 align="center">Hello! 👋, Great  to see you here!</h1>
+
+<br>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="developer-coding" /></p>
+
+
 - 👋 Hi, I’m  @SAMUELMUCHIRI 
 - 
 - 👀 I’m interested in ... Python ,C++ and Matlab 
