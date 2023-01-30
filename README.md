@@ -10,3 +10,8 @@ SAMUELMUCHIRI/SAMUELMUCHIRI is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SAMUELMUCHIRI&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SAMUELMUCHIRI&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMUELMUCHIRI&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
