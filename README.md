@@ -33,9 +33,3 @@ You can click the Preview link to take a look at your changes.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SAMUELMUCHIRI&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17516587) -->
-
----
-<p align="center">
-<img src="github-contribution-grid-snake.svg">
-</p>
