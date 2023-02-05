@@ -38,4 +38,5 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-profile-trophy.vercel.app/?username=SAMUELMUCHIRI&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 
-
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=kijanaballer&theme=jolly&response=false)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
