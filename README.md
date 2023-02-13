@@ -13,7 +13,8 @@
 - 👀 I’m interested in ... Python ,C++ and Matlab 
 - 🌱 I’m currently learning ...c++ ,Pascal
 - 💞️ I’m looking to collaborate on ... Research projects involving various languages
-- 📫 How to reach me ...https://www.linkedin.com/in/samuel-njau-b00488191/
+- 📫 How to reach me  check my social on the profile or 
+- for more of my work check out samuelmuchiri.github.io
 
 <!---
 SAMUELMUCHIRI/SAMUELMUCHIRI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
