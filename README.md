@@ -32,9 +32,8 @@ You can click the Preview link to take a look at your changes.
  
  >![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=plastic&logo=adobeindesign&logoColor=white)
  
- > ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
+ > ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)     ![Matplotlip](https://img.shields.io/badge/Mp-matplotlib%20-green)
 
-<img src='https://drive.google.com/file/d/1RxUgCgtg9XVGZL0mlG7ebiapHLcZY0Sl/view?usp=sharing'>
 
 # 📊 **GitHub Stats:**
 ![](https://github-readme-stats.vercel.app/api?username=SAMUELMUCHIRI&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
