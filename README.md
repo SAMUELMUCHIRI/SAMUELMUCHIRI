@@ -41,9 +41,4 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMUELMUCHIRI&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-[![SAMUEL's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SAMUELMUCHIRI&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SAMUELMUCHIRI&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
 
