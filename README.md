@@ -42,4 +42,4 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SAMUELMUCHIRI&theme=midnight-purple&hide_border=false)<br/>
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMUELMUCHIRI&langs_count=8)
