@@ -15,7 +15,7 @@
 - 💞️ I’m looking to collaborate on Research projects involving various languages
 
 >📫 How to reach me 
- check my social on the profile or 
+ check my social on the profile and 
 for more of my work check out **samuelmuchiri.github.io**
 
 <!---
