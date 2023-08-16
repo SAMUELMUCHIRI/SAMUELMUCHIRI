@@ -9,10 +9,8 @@
 
 
 
-- 👋 Hi, I’m  @SAMUELMUCHIRI  
-- 👀 I’m interested in ... Python ,C++ and Matlab 
-- 🌱 I’m currently **learning** 
-- 💞️ I’m looking to collaborate on Research projects involving various languages
+- ## 👋  Hi, I’m   @SAMUELMUCHIRI  
+
 
 >📫 How to reach me 
  check my social on the profile and 
