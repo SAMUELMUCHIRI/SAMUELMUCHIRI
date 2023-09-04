@@ -6,10 +6,6 @@
 
 <br>
 
-
-- ## 👋  Hi, I’m   @SAMUELMUCHIRI  
-
-
 >📫 How to reach me 
  check my social on the profile and 
 for more of my work check out **samuelmuchiri.github.io**
