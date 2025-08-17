@@ -1,40 +1,65 @@
+# Hi there, I'm Samuel Muchiri 👋
 
-<h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-</h1>
+**Electronic & Computer Engineer | Backend Developer**
 
-<br>
+---
 
->📫 How to reach me 
- check my social on the profile and 
-for more of my work check out **samuelmuchiri.github.io**
+##  About Me
 
-<!---
-SAMUELMUCHIRI/SAMUELMUCHIRI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m an **Electronic & Computer Engineer** with over **4 years of experience** designing seamless and impactful technology solutions. I’m passionate about turning complex concepts into elegantly engineered systems that enhance user experiences and drive results.
+
+- Completed **12+ projects** for clients across the world  
+- Collaborated with **34+ clients worldwide**  
 
 
-# 💻 **Tech Stack:**
-![PHP](https://img.shields.io/badge/PHP-%2300599C.svg?style=plastic&logo=php&logoColor=white)  ![Laravel](https://img.shields.io/badge/laravel-%23D42029.svg?style=plastic&logo=laravel&logoColor=white)   ![Java](https://img.shields.io/badge/java-3670A0?style=plastic&logo=java&logoColor=ffdd54)  ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
+---
 
+##  Core Expertise
 
+Skilled in backend technologies and tools that power robust, scalable, and reliable applications:
 
+| Technology | Description |
+|------------|-------------|
+| **TypeScript** | Strong typing, modern JS ecosystem |
+| **PHP (Laravel)** | Rapid backend development with expressive syntax |
+| **MySQL** | Reliable relational database systems |
+| **Nginx** | High-performance web server & reverse proxy |
+| **Docker** | Containerized deployments & isolation |
+| **Git** | Version control best practices |
 
- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
+As featured on my portfolio site under “Premium Tools” listings: Laravel (PHP), MySQL, Nginx, Git, Docker, plus Python, C++, and Tailwind CSS :contentReference[oaicite:1]{index=1}.
+
+---
+
+##  Highlighted Projects
+
+- **Health Information System** – Built using Laravel and Tailwind CSS  
+- **Smart Parking with M-PESA** – PHP integration with Arduino and mobile payments  
+- **Robo Dojo** – Line-following robot (C++, SolidWorks) and navigation robot (ROS, C++)  
+- **Mama Care** – Maternal monitoring system built with Laravel and C++
+
+All projects demonstrate my backend focus and integration skills :contentReference[oaicite:2]{index=2}.
+
+---
+
+##  Why Hire Me?
+
+- Proficient in building and maintaining robust backend systems  
+- Experienced in API integrations, system automation, and data-driven workflows  
+- Familiar with container-based deployments and efficient CI/CD pipelines  
+- Skilled in bridging electronics and software systems for hardware-software synergy
+
+---
+
+##  Let's Connect
+
+Interested in working together? I’m available for backend development, system integration, and automation projects on platforms like **Upwork**.
+
+- Email: **eng.njaumuchiri@gmail.com**  
  
-  
+- Portfolio: [samuelmuchiri.github.io](https://samuelmuchiri.github.io)
 
+---
 
-<br/> 
-
-
-
-#  **GitHub Stats:**  
- 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMUELMUCHIRI&langs_count=9)
-
- <br/>
+Looking forward to collaborating with you and bringing your projects to life!  
+— **Samuel Muchiri**  
