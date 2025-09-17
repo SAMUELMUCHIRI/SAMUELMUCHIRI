@@ -27,7 +27,6 @@ Skilled in backend technologies and tools that power robust, scalable, and relia
 | **Docker** | Containerized deployments & isolation |
 | **Git** | Version control best practices |
 
-As featured on my portfolio site under “Premium Tools” listings: Laravel (PHP), MySQL, Nginx, Git, Docker, plus Python, C++, and Tailwind CSS :contentReference[oaicite:1]{index=1}.
 
 ---
 
@@ -38,7 +37,7 @@ As featured on my portfolio site under “Premium Tools” listings: Laravel (PH
 - **Robo Dojo** – Line-following robot (C++, SolidWorks) and navigation robot (ROS, C++)  
 - **Mama Care** – Maternal monitoring system built with Laravel and C++
 
-All projects demonstrate my backend focus and integration skills :contentReference[oaicite:2]{index=2}.
+
 
 ---
 
